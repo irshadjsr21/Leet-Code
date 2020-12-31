@@ -19,3 +19,8 @@ Constraints:
 -10^3 <= nums[i] <= 10^3
 -10^4 <= target <= 10^4
 ```
+
+## Tags
+
+- [Array](./.tags/Array.md)
+- [Two Pointer](./.tags/TwoPointer.md)
