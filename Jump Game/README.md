@@ -2,7 +2,7 @@
 
 > [Leet Code](https://leetcode.com/problems/jump-game/)
 
-> [Medium](../difficulty/Medium.md)
+> [Medium](../.difficulty/Medium.md)
 
 Given an array of non-negative integers, you are initially positioned at the first index of the array.
 

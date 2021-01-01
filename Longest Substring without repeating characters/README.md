@@ -2,7 +2,7 @@
 
 > [Leet Code](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-> [Medium](../difficulty/Medium.md)
+> [Medium](../.difficulty/Medium.md)
 
 Given a string s, find the length of the longest substring without repeating characters.
 

@@ -2,7 +2,7 @@
 
 > [Leet Code](https://leetcode.com/problems/combination-sum-ii/)
 
-> [Medium](../difficulty/Medium.md)
+> [Medium](../.difficulty/Medium.md)
 
 Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target.
 

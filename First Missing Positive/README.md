@@ -2,7 +2,7 @@
 
 > [Leet Code](https://leetcode.com/problems/first-missing-positive/)
 
-> [Hard](../difficulty/Hard.md)
+> [Hard](../.difficulty/Hard.md)
 
 Given an unsorted integer array nums, find the smallest missing positive integer.
 

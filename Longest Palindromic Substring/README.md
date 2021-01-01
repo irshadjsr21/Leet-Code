@@ -2,7 +2,7 @@
 
 > [Leet Code](https://leetcode.com/problems/longest-palindromic-substring/)
 
-> [Medium](../difficulty/Medium.md)
+> [Medium](../.difficulty/Medium.md)
 
 Given a string s, return the longest palindromic substring in s.
 

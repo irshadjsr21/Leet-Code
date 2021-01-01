@@ -2,7 +2,7 @@
 
 > [Leet Code](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-> [Medium](../difficulty/Medium.md)
+> [Medium](../.difficulty/Medium.md)
 
 You are given an integer array nums sorted in ascending order, and an integer target.
 

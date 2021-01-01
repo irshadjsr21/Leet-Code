@@ -2,7 +2,7 @@
 
 > [Leet Code](https://leetcode.com/problems/next-permutation/)
 
-> [Medium](../difficulty/Medium.md)
+> [Medium](../.difficulty/Medium.md)
 
 Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.
 
