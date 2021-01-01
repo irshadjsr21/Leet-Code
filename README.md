@@ -12,6 +12,7 @@
 - [First Missing Positive](./First%20Missing%20Positive)
 - [Jump Game](./Jump%20Game)
 - [Jump Game II](./Jump%20Game%20II)
+- [Jump Game III](./Jump%20Game%20III)
 - [Longest Palindromic Substring](./Longest%20Palindromic%20Substring)
 - [Longest Substring without repeating characters](./Longest%20Substring%20without%20repeating%20characters)
 - [Median of Two Sorter Array](./Median%20of%20Two%20Sorter%20Array)
