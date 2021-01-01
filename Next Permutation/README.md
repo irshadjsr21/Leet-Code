@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/next-permutation/)
 
+> [Medium](../difficulty/Medium.md)
+
 Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.
 
 If such an arrangement is not possible, it must rearrange it as the lowest possible order (i.e., sorted in ascending order).
@@ -42,3 +44,7 @@ Constraints:
 1 <= nums.length <= 100
 0 <= nums[i] <= 100
 ```
+
+## Tags
+
+- [Array](../.tags/Array.md)

@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
+> [Hard](../difficulty/Hard.md)
+
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 
 Follow up: The overall run time complexity should be O(log (m+n)).
@@ -53,6 +55,12 @@ nums2.length == n
 1 <= m + n <= 2000
 -106 <= nums1[i], nums2[i] <= 106
 ```
+
+## Tags
+
+- [Array](../.tags/Array.md)
+- [Binary Search](../.tags/BinarySearch.md)
+- [Divide And Conquer](../.tags/DivideAndConquer.md)
 
 ## References
 

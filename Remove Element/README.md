@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/remove-element/)
 
+> [Easy](../difficulty/Easy.md)
+
 Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
 Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
@@ -51,3 +53,8 @@ Constraints:
 0 <= nums[i] <= 50
 0 <= val <= 100
 ```
+
+## Tags
+
+- [Array](../.tags/Array.md)
+- [Two Pointer](../.tags/TwoPointer.md)

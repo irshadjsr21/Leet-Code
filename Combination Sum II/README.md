@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/combination-sum-ii/)
 
+> [Medium](../difficulty/Medium.md)
+
 Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target.
 
 Each number in candidates may only be used once in the combination.
@@ -39,3 +41,8 @@ Constraints:
 1 <= candidates[i] <= 50
 1 <= target <= 30
 ```
+
+## Tags
+
+- [Array](../.tags/Array.md)
+- [Backtracking](../.tags/Backtracking.md)

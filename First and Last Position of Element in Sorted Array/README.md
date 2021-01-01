@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
+> [Medium](../difficulty/Medium.md)
+
 Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value.
 
 If target is not found in the array, return [-1, -1].
@@ -37,3 +39,8 @@ Constraints:
 nums is a non-decreasing array.
 -109 <= target <= 109
 ```
+
+## Tags
+
+- [Array](../.tags/Array.md)
+- [Binary Search](../.tags/BinarySearch.md)

@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/first-missing-positive/)
 
+> [Hard](../difficulty/Hard.md)
+
 Given an unsorted integer array nums, find the smallest missing positive integer.
 
 Follow up: Could you implement an algorithm that runs in O(n) time and uses constant extra space.?
@@ -34,6 +36,10 @@ Constraints:
 -231 <= nums[i] <= 231 - 1
 ```
 
-# Reference
+## Tags
+
+- [Array](../.tags/Array.md)
+
+## Reference
 
 - [Youtube Video](https://www.youtube.com/watch?v=9SnkdYXNIzM)

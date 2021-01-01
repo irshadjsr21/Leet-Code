@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
+> [Medium](../difficulty/Medium.md)
+
 Given a string s, find the length of the longest substring without repeating characters.
 
 Example 1:
@@ -42,6 +44,13 @@ Constraints:
 0 <= s.length <= 5 * 104
 s consists of English letters, digits, symbols and spaces.
 ```
+
+## Tags
+
+- [String](../.tags/String.md)
+- [Hash Table](../.tags/HashTable.md)
+- [Two Pointer](../.tags/TwoPointer.md)
+- [Sliding Window](../.tags/SlidingWindow.md)
 
 ## References
 

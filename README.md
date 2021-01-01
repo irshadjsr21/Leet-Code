@@ -1,8 +1,8 @@
 # Leet Code
 
-# Problems
+## Problems
 
-- [3 Sum](./3%20Sum) :
+- [3 Sum](./3%20Sum)
 - [3 Sum Closest](./3%20Sum%20Closest)
 - [4 Sum](./4%20Sum)
 - [Combination Sum](./Combination%20Sum)
@@ -20,3 +20,23 @@
 - [Search in Rotated Sorted Array](./Search%20in%20Rotated%20Sorted%20Array)
 - [Search Insert Position](./Search%20Insert%20Position)
 - [Trapping Rain Water](./Trapping%20Rain%20Water)
+
+## Difficulty
+
+- [Easy](./.difficulty/Array.md)
+- [Medium](./.difficulty/Medium.md)
+- [Hard](./.difficulty/Hard.md)
+
+## Tags
+
+- [Array](./.tags/Array.md)
+- [Backtracking](./.tags/Backtracking.md)
+- [Binary Search](./.tags/BinarySearch.md)
+- [Divide And Conquer](./.tags/DivideAndConquer.md)
+- [Dynamic Programming](./.tags/DynamicProgramming.md)
+- [Greedy](./.tags/Greedy.md)
+- [Hash Table](./.tags/HashTable.md)
+- [Sliding Window](./.tags/SlidingWindow.md)
+- [Stack](./.tags/Stack.md)
+- [String](./.tags/String.md)
+- [Two Pointer](./.tags/TwoPointer.md)

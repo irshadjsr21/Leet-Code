@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/search-insert-position/)
 
+> [Easy](../difficulty/Easy.md)
+
 Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 
 Example 1:
@@ -47,3 +49,8 @@ Constraints:
 nums contains distinct values sorted in ascending order.
 -104 <= target <= 104
 ```
+
+## Tags
+
+- [Array](../.tags/Array.md)
+- [Binary Search](../.tags/BinarySearch.md)

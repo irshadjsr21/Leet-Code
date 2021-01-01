@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/trapping-rain-water/)
 
+> [Hard](../difficulty/Hard.md)
+
 Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 
 ![Example Image](./images/example.png)
@@ -29,6 +31,12 @@ n == height.length
 0 <= height[i] <= 10^5
 ```
 
-# References
+## Tags
+
+- [Array](../.tags/Array.md)
+- [Two Pointer](../.tags/TwoPointer.md)
+- [Stack](../.tags/Stack.md)
+
+## References
 
 - [Youtube Video](https://www.youtube.com/watch?v=XqTBrQYYUcc)

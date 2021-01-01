@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/jump-game/)
 
+> [Medium](../difficulty/Medium.md)
+
 Given an array of non-negative integers, you are initially positioned at the first index of the array.
 
 Each element in the array represents your maximum jump length at that position.
@@ -44,3 +46,9 @@ en
 ```
 
 Where `n` is the length of the array and `e1`, `e2`,. . ., `en` are the array elements.
+
+## Tags
+
+- [Array](../.tags/Array.md)
+- [Greedy](../.tags/Greedy.md)
+- [Dynamic Programming](../.tags/DynamicProgramming.md)

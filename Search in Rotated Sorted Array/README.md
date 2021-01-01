@@ -2,6 +2,8 @@
 
 > [Leet Code](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
+> [Medium](../difficulty/Medium.md)
+
 You are given an integer array nums sorted in ascending order, and an integer target.
 
 Suppose that nums is rotated at some pivot unknown to you beforehand (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]).
@@ -38,3 +40,8 @@ All values of nums are unique.
 nums is guranteed to be rotated at some pivot.
 -10^4 <= target <= 10^4
 ```
+
+## Tags
+
+- [Array](../.tags/Array.md)
+- [Binary Search](../.tags/BinarySearch.md)
