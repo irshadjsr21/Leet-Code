@@ -3,6 +3,7 @@
 - [3 Sum](../3%20Sum)
 - [3 Sum Closest](../3%20Sum%20Closest)
 - [4 Sum](../4%20Sum)
+- [Check Array Formation Through Concatenation](../Check%20Array%20Formation%20Through%20Concatenation)
 - [Combination Sum](../Combination%20Sum)
 - [Combination Sum II](../Combination%20Sum%20II)
 - [Container With Most Water](../Container%20With%20Most%20Water)
